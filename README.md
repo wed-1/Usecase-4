@@ -1,6 +1,6 @@
 # Usecase-4
 ### Team member :
-- Wadia.
+- Wadiah.
 - Ziyad.
 - Mosaab.
 - Naif.
