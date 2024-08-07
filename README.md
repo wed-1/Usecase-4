@@ -1,5 +1,5 @@
 # Usecase-4
-### Team members :
+### Team member :
 - Wadia.
 - Ziyad.
 - Mosaab.
